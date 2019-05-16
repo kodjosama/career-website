@@ -5,9 +5,7 @@
         Handcrafted with
         <span class="icon has-text-danger">
           <font-awesome-icon :icon="['fas', 'heart']" />
-        </span>by kodjosama.
-
-        Copyright
+        </span>by kodjosama. Copyright
         <font-awesome-icon :icon="['far', 'copyright']" />
         {{ new Date().getFullYear() }}. <br> Made with
         <a
