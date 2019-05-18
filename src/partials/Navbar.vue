@@ -7,7 +7,13 @@
     <div class="container">
       <div class="navbar-brand">
         <a class="navbar-item is-uppercase has-text-weight-bold">
-          Jostino Website
+          <img
+            src="//images.ctfassets.net/suxlw3hovxfd/1lLAKQfJPeaYyEMSYugkq4/272f8c08ba4e1636e6c01f25676a3b92/favicon.png"
+            alt="favicon"
+            width="30"
+            height="30"
+          >
+          <b>JK</b>
         </a>
 
         <a
@@ -29,31 +35,31 @@
       >
         <div class="navbar-end">
           <a
-            id="about"
-            class="navbar-item is-active"
+            href="#about"
+            class="navbar-item"
           >
-            About
+            A propos
           </a>
 
           <a
             href="#work-experience"
             class="navbar-item"
           >
-            Work Experiences
+            Experiences
           </a>
 
           <a
             href="#realise-project"
             class="navbar-item"
           >
-            Realised Projects
+            Projets
           </a>
 
           <a
             href="#testimonial"
             class="navbar-item"
           >
-            Testimonials
+            Temoignages
           </a>
 
           <a
@@ -69,5 +75,9 @@
 </template>
 
 <script>
-export default {}
+export default {
+  props: {
+    fullname: String
+  }
+}
 </script>

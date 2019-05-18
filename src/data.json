@@ -1,0 +1,148 @@
+{
+  "fullname": "Jostino KOUSSAWO",
+  "title": "Designer, Front-end Developer",
+  "avatar": null,
+  "abouts": [
+    {
+      "name": "My Profile",
+      "column": "column is-half",
+      "description": "I am a problem solver, a creative and a thinker",
+      "skills": [
+        {
+          "name": "Name",
+          "content": "Jethro Bryce May",
+          "progress": null
+        },
+        {
+          "name": "Place of Birth",
+          "content": "Johannesburg, South Africa",
+          "progress": null
+        },
+        {
+          "name": "Date of Birth",
+          "content": "10th of January 1991",
+          "progress": null
+        }
+      ]
+    },
+    {
+      "name": "My Skills",
+      "column": "column is-half",
+      "description": "I have been within the software development sphere for many years now, below you will find a list of some of my favorite languages and code bases.",
+      "skills": [
+        {
+          "name": "PHP",
+          "progress": 90
+        },
+        {
+          "name": "Wordpress",
+          "progress": 90
+        },
+        {
+          "name": "Laravel",
+          "progress": 70
+        },
+        {
+          "name": "HTML5",
+          "progress": 85
+        },
+        {
+          "name": "CSS3",
+          "progress": 85
+        },
+        {
+          "name": "JavaScript",
+          "progress": 75
+        },
+        {
+          "name": "Java (Android)",
+          "progress": 60
+        }
+      ]
+    },
+    {
+      "name": "My Development Tools",
+      "column": "column has-text-centered",
+      "description": "PhpStorm, Personal CSS Framework, Bulma, Bitbucket, Gitlab, Github, Laragon, Git Bash"
+    }
+  ],
+  "experiences": [
+    {
+      "marker": "timeline-marker is-success",
+      "duration": "May 2019 - Present",
+      "post": "Web Developer at PlusNarrative",
+      "description": null
+    },
+    {
+      "marker": "timeline-marker is-danger",
+      "duration": "January 2019 - April 2019",
+      "post": "Web Developer at FirstView",
+      "description": null
+    },
+    {
+      "marker": "timeline-marker is-danger",
+      "duration": "November 2017 - January 2019",
+      "post": "Managing Partner &amp; Web Developer at Yard<sup>8</sup>",
+      "description": null
+    },
+    {
+      "marker": "timeline-marker is-danger",
+      "duration": "April 2016 - November 2017",
+      "post": "Web Developer at Iconic Media",
+      "description": null
+    },
+    {
+      "marker": "timeline-marker is-danger",
+      "duration": "August 2014 - March 2016",
+      "post": "Software Developer at Design Technologies",
+      "description": null
+    }
+  ],
+  "projects": [
+    {
+      "cover": null,
+      "name": "CBCGFINANCES",
+      "description": "INTERFACE D'ADMINISTRATION DE LA PLATEFORME ÉDUCATIVE ZONOA <a href='https: //admin.zonoa.net'>https: //admin.zonoa.net</a>"
+    },
+    {
+      "cover": null,
+      "name": "CBCGFINANCES",
+      "description": "INTERFACE D'ADMINISTRATION DE LA PLATEFORME ÉDUCATIVE ZONOA <a href='https: //admin.zonoa.net'>https: //admin.zonoa.net</a>"
+    },
+    {
+      "cover": null,
+      "name": "CBCGFINANCES",
+      "description": "INTERFACE D'ADMINISTRATION DE LA PLATEFORME ÉDUCATIVE ZONOA <a href='https: //admin.zonoa.net'>https: //admin.zonoa.net</a>"
+    },
+    {
+      "cover": null,
+      "name": "CBCGFINANCES",
+      "description": "INTERFACE D'ADMINISTRATION DE LA PLATEFORME ÉDUCATIVE ZONOA <a href='https: //admin.zonoa.net'>https: //admin.zonoa.net</a>"
+    },
+    {
+      "cover": null,
+      "name": "CBCGFINANCES",
+      "description": "INTERFACE D'ADMINISTRATION DE LA PLATEFORME ÉDUCATIVE ZONOA <a href='https: //admin.zonoa.net'>https: //admin.zonoa.net</a>"
+    }
+  ],
+  "testimonials": [
+    {
+      "avatar": "http://mattfarley.ca/img/avatars/pascal.png",
+      "name": "Pascal Tremblay",
+      "post": "Creative Lead, Good Kind",
+      "description": "Matt was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of designer you can trust with a project from start to finish."
+    },
+    {
+      "avatar": "http://mattfarley.ca/img/avatars/pascal.png",
+      "name": "Pascal Tremblay",
+      "post": "Creative Lead, Good Kind",
+      "description": "Matt was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of designer you can trust with a project from start to finish."
+    },
+    {
+      "avatar": "http://mattfarley.ca/img/avatars/pascal.png",
+      "name": "Pascal Tremblay",
+      "post": "Creative Lead, Good Kind",
+      "description": "Matt was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of designer you can trust with a project from start to finish."
+    }
+  ]
+}
