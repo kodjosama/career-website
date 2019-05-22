@@ -45,7 +45,7 @@ import RealiseProject from '@/partials/RealiseProject'
 import Testimonial from '@/partials/Testimonial'
 import Contact from '@/partials/Contact'
 import Footerbar from '@/partials/Footerbar'
-import sourceData from './data.json';
+import sourceData from '@/../data.json';
 
 export default {
   name: 'app',

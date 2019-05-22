@@ -35,6 +35,7 @@
                       name="name"
                       type="text"
                       required=""
+                      autocomplete="off"
                     >
                   </div>
                 </div>
@@ -54,6 +55,7 @@
                       name="email"
                       type="email"
                       required=""
+                      autocomplete="off"
                     >
                   </div>
                 </div>
@@ -70,6 +72,7 @@
                       name="message"
                       rows="5"
                       required=""
+                      autocomplete="off"
                     ></textarea>
                   </div>
                 </div>
